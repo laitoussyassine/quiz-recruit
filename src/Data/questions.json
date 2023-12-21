@@ -1,0 +1,113 @@
+[
+    {
+      "category": "Frontend",
+      "question": "1. What does HTML stand for?",
+      "answers": [
+        "HyperText Markup Language",
+        "High-Level Text Management Language",
+        "Home Tool Markup Language",
+        "Hypertext Transfer Protocol"
+      ],
+      "correctAnswer": "HyperText Markup Language"
+    },
+    {
+      "category": "Frontend",
+      "question": "2. Which CSS property is used to control the spacing between elements?",
+      "answers": [
+        "margin",
+        "padding",
+        "border",
+        "spacing"
+      ],
+      "correctAnswer": "margin"
+    },
+    {
+      "category": "Frontend",
+      "question": "3. What is the purpose of JavaScript?",
+      "answers": [
+        "Styling web pages",
+        "Creating database tables",
+        "Enhancing the interactivity of web pages",
+        "Managing server-side operations"
+      ],
+      "correctAnswer": "Enhancing the interactivity of web pages"
+    },
+    {
+      "category": "Frontend",
+      "question": "4. Which of the following is NOT a valid semantic HTML tag?",
+      "answers": [
+        "<article>",
+        "<div>",
+        "<header>",
+        "<section>"
+      ],
+      "correctAnswer": "<div>"
+    },
+    {
+      "category": "Frontend",
+      "question": "5. What is the role of the 'viewport' meta tag in a web page?",
+      "answers": [
+        "Defining the background color",
+        "Setting the page title",
+        "Controlling the layout on different devices",
+        "Managing session storage"
+      ],
+      "correctAnswer": "Controlling the layout on different devices"
+    },
+    {
+      "category": "Frontend",
+      "question": "6. Which JavaScript framework is commonly used for building user interfaces?",
+      "answers": [
+        "Angular",
+        "Express",
+        "Django",
+        "React"
+      ],
+      "correctAnswer": "React"
+    },
+    {
+      "category": "Frontend",
+      "question": "7. What is the purpose of the 'alt' attribute in an HTML image tag?",
+      "answers": [
+        "Setting the image source",
+        "Defining image dimensions",
+        "Providing alternative text for screen readers",
+        "Controlling image opacity"
+      ],
+      "correctAnswer": "Providing alternative text for screen readers"
+    },
+    {
+      "category": "Frontend",
+      "question": "8. How can you include an external JavaScript file in an HTML document?",
+      "answers": [
+        "<script src='filename.js'></script>",
+        "<js include='filename.js'></js>",
+        "<link rel='javascript' href='filename.js'>",
+        "<javascript src='filename.js'></javascript>"
+      ],
+      "correctAnswer": "<script src='filename.js'></script>"
+    },
+    {
+      "category": "Frontend",
+      "question": "9. What is the purpose of the CSS property 'box-sizing: border-box'?",
+      "answers": [
+        "Adding a border around the box",
+        "Including the padding and border in the box's total width",
+        "Setting the box's background color",
+        "Applying a shadow to the box"
+      ],
+      "correctAnswer": "Including the padding and border in the box's total width"
+    },
+    {
+      "category": "Frontend",
+      "question": "10. What does the acronym API stand for in the context of web development?",
+      "answers": [
+        "Application Programming Interface",
+        "Advanced Page Interaction",
+        "Automated Program Integration",
+        "Application Protocol Interface"
+      ],
+      "correctAnswer": "Application Programming Interface"
+    }
+  ]
+  

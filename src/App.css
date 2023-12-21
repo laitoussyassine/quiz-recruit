@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+body {
+  min-height: 100vh;
+  font-family: 'Lato', sans-serif;
+  background: rgb(41,66,106);
+background: linear-gradient(180deg, rgba(41,66,106,0.7651435574229692) 30%, rgba(103,140,199,0.5830707282913166) 63%, rgba(205,212,255,0.5998774509803921) 100%);
+}
+
